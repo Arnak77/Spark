@@ -1,0 +1,44 @@
+## read the dataset
+
+### Check the schema
+
+### Adding Columns in data frame
+
+
+### Drop the columns
+
+### Rename the columns
+
+### any==how
+
+##threshold
+
+##Subset
+
+### Filling the Missing Value
+
+
+# Add imputation cols to df
+
+### Salary of the people less than or equal to 20000
+
+
+## Groupby
+
+### Grouped to find the maximum salary
+
+### Groupby Departmernts  which gives maximum salary
+
+
+#agg function
+
+
+
+
+
+
+
+
+
+
+
